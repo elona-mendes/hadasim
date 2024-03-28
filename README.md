@@ -1,8 +1,8 @@
 exec2_hadasim file:
 The purpose of the program is to get an estimate regarding the length and width of buildings and to enable "investigation" of buildings in the real estate market.
 How the program works after running it:
-Pressing 1 - test option on a rectangle tower.
-Pressing 2 - test option on a triangular tower.
+Pressing 1 - test option on a rectangle tower.\n
+Pressing 2 - test option on a triangular tower./n
 Clicking on 3 - Exit the program.
 After pressing 1 or 2, the user must enter the height and width of the tower (the height of the tower must be at least 2).
 For a rectangle, its perimeter will be printed if the difference of its sides is greater than 5, otherwise its area will be printed.
