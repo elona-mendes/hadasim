@@ -23,7 +23,7 @@ def main():
                                      "triangle\nYour choice: "))
             if triangle_opt == 1:
                 edge = math.sqrt((length / 2 * length / 2) + (height * height))
-                print(f"The perimeter of the given triangle is {edge * 2 + height}")
+                print(f"The perimeter of the given triangle is {edge * 2 + length}")
             elif triangle_opt == 2:
                 if (length % 2 == 0) or (length > (2 * height)):
                     print("Sorry, the triangle cannot be printed.")
